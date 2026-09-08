@@ -3,7 +3,7 @@
 
 ## Integrantes
 * [Danna Valentina Jimenez Reyes](https://github.com/dannavajimenezre) 
-* [<!-- Remplace aqui nombre 2. -->](<!-- Remplace aqui link de usario 2 de github -->) 
+* [Wilmar Fabian Benavides Rojas](https://github.com/wilmarfabenavidesro) 
 # Informe
 
 Indice:
