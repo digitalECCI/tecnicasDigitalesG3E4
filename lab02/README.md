@@ -2,7 +2,7 @@
 
 ## Integrantes
 
-* **Wilmar Benavides**
+* **Wilmar Benavides - 142948**
 * **Valentina Jimenez - 144353**
 
 **Grupo:** G3E1
