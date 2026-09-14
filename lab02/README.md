@@ -31,7 +31,7 @@ $$
 
 El módulo de 1 bit permite reutilizar un diseño previamente desarrollado para construir sistemas digitales de mayor tamaño.
 
-![Simulación de compuertas lógicas](evidencias/Sumador%20de%201%20bit.jpeg)
+![Simulación de compuertas lógicas](evidencias_lab02/Sumador%20de%201%20bit.jpeg)
 
 
 ## 1.2. Sumador de 4 bits
@@ -52,7 +52,7 @@ De esta manera, el acarreo generado en una posición es utilizado como acarreo d
 
 ### Figura 1. Simulación del sumador de 4 bits
 
-![Diagrama del sumador de 4 bits](evidencias/sumador_4bits.jpg)
+![Diagrama del sumador de 4 bits](evidencias_lab02/sumador_4bits.jpg)
 
 
 
