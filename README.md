@@ -5,4 +5,4 @@
 
 # Integrantes
 * [Wilmar Fabian Benavides Rojas](https://github.com/wilmarfabenavidesro-code)
-* [Dana valentina Jimenez Hernandez](
+* [Dana valentina Jimenez Hernandez](https://github.com/dannavajimenezre)
