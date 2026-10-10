@@ -1,3 +1,4 @@
+<img width="1600" height="658" alt="470b78c3-a620-4eab-8db8-aba6679f4a6d" src="https://github.com/user-attachments/assets/a5bc2b71-4e81-425d-ac6d-70a7b3ce914b" />
 # Tecnicas Digitales D3E5
 
 # Descripción
@@ -48,7 +49,7 @@ El código de prueba (sum4b_TB) utiliza dos ciclos for para recorrer automática
 
 ### 1. Simulacion de Sumador de 4 bit
 
-![Diagrama 2](<img width="1600" height="658" alt="image" src="https://github.com/user-attachments/assets/af5e23c2-40b7-4b8f-a53e-8c96346d4078" />
+![Diagrama 2](<img width="1600" height="658" alt="image" src="https://github.com/user-attachments/assets/c782dad4-31f7-4fa0-9bf0-5c3c347d4c08" />
 )
 
 ## Evidencias de implementación
