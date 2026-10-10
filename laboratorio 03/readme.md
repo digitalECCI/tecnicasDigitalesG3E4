@@ -4,7 +4,8 @@
  Este es el repositorio de la asignatura tecnicas digitales.
 
 # Integrantes
-* [Wilmar Fabian Benavides Rojas](
+* [Wilmar Fabian Benavides Rojas](https://github.com/wilmarfabenavidesro-code)
+* [Dana Valentina JImenez Hernandez](
   
 # Informe
 
